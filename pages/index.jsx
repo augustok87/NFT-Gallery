@@ -163,3 +163,4 @@ export default Home;
 // Challenge!
 // 1. Make a small icon next to the contract address of each NFT so that if you click on it it get's copied to the clipboard.
 // 2. Using startToken parameter from getNFTsForCollection function, make a pagination of 100 items per page.
+// 2. Using startToken parameter from getNFTsForCollection function, make a pagination of 100 items per page.
